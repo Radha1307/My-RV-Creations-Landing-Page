@@ -1,0 +1,13 @@
+.pink-button {
+  background:rgb(226, 128, 145);
+  color: white;
+  border: 2px solid  rgb(233, 102, 123);
+  padding: 15px 20px;
+  border-radius: 300px;
+  font-weight: bold;
+  opacity: 0.8;
+}
+.pink-button:hover {
+  background:rgb(201, 82, 102);
+  border: 2px solid  rgb(233, 143, 158)
+}
